@@ -1,6 +1,6 @@
 {
   "name": "google-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -46,5 +46,22 @@
     "ts-node": "~7.0.0",
     "tslint": "^5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arasemami/g-icon.git"
+  },
+  "keywords": [
+    "icon",
+    "google",
+    "material",
+    "IO",
+    "angular"
+  ],
+  "author": "Yaser Darzi <yaser.darzi@gmail.com>,Aras Armani <aras.armani@2014@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arasemami/g-icon/issues"
+  },
+  "homepage": "https://github.com/arasemami/g-icon#readme"
 }
