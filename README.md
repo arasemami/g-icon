@@ -1,6 +1,6 @@
 
 # Google-Icon
-g-icon is google material icons, install easy and use super easy in your angular project.
+google-icon is google material icons, install easy and use super easy in your angular project.
 
 
 
@@ -8,7 +8,7 @@ g-icon is google material icons, install easy and use super easy in your angular
 # How to install
 
 **Install Packages**
-`npm install --save g-icon`
+`npm install --save google-icon`
 
 
 
@@ -24,7 +24,7 @@ class     | `String`           | `md-3, md-9, md-18, md-24, md-36`              
 
 *Example Use*
 ```html
-<g-icon name="favorite" class="md-3"></g-icon>
+<google-icon name="favorite" class="md-3"></google-icon>
 ```
 
 # TODO
