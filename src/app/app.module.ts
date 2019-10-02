@@ -2,7 +2,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
-import {GIconModule} from '../lib/icon.module';
+import {GoogleIconModule} from '../lib/google-icon.module';
 
 
 @NgModule({
@@ -11,7 +11,7 @@ import {GIconModule} from '../lib/icon.module';
   ],
   imports: [
     BrowserModule,
-    GIconModule
+    GoogleIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]

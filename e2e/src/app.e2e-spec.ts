@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('Welcome to g-icon!');
+    expect(page.getTitleText()).toEqual('Welcome to google-google-icon!');
   });
 
   afterEach(async () => {

@@ -18,7 +18,7 @@
     "component-selector": [
       true,
       "element",
-      "g",
+      "google",
       "kebab-case"
     ],
     "import-blacklist": [

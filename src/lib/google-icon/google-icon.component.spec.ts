@@ -1,6 +1,6 @@
 import {async, ComponentFixture, TestBed} from '@angular/core/testing';
 
-import {IconComponent} from './icon.component';
+import {GoogleIconComponent} from './google-icon.component';
 
 describe('IconComponent', () => {
   // let de: DebugElement;

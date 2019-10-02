@@ -1,11 +1,11 @@
 import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
-  selector: 'g-icon',
-  templateUrl: './icon.component.html',
-  styleUrls: ['./icon.component.css']
+  selector: 'google-icon',
+  templateUrl: './google-icon.component.html',
+  styleUrls: ['./google-icon.component.css']
 })
-export class IconComponent implements OnInit {
+export class GoogleIconComponent implements OnInit {
   @Input() name: string;
   @Input() class      ?: string;
 

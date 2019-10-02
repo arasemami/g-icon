@@ -1,1 +1,1 @@
-export * from './icon.module';
+export * from './google-icon.module';
